@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/n5-challenge2/static/css/main.2442db88.css",
+    "main.js": "/n5-challenge2/static/js/main.e0c16959.js",
+    "static/js/453.6048ffba.chunk.js": "/n5-challenge2/static/js/453.6048ffba.chunk.js",
+    "index.html": "/n5-challenge2/index.html",
+    "main.2442db88.css.map": "/n5-challenge2/static/css/main.2442db88.css.map",
+    "main.e0c16959.js.map": "/n5-challenge2/static/js/main.e0c16959.js.map",
+    "453.6048ffba.chunk.js.map": "/n5-challenge2/static/js/453.6048ffba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2442db88.css",
+    "static/js/main.e0c16959.js"
+  ]
+}
